@@ -1,1 +1,1 @@
-# Chat-app
+# Cloud_Computing_mini_project
